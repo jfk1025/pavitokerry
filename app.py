@@ -1,5 +1,7 @@
 import streamlit as st
+
 st.image("QUIMI4.jpg")
+
 st.title("🔁 Calculadora de Gases: Ecuación Combinada")
 st.write(r"La ecuación usada es: $\frac{P_i \cdot V_i}{T_i} = \frac{P_f \cdot V_f}{T_f}$")
 
