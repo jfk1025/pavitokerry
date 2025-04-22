@@ -73,3 +73,5 @@ elif variable == "Temperatura final (Tf)":
     if st.button("Calcular Tf"):
         Tf = (Pf * Vf * Ti) / (Pi * Vi)
         st.success(f"Temperatura final = {Tf:.3f} K")
+
+st.image("QUIMI2.jpg")
